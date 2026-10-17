@@ -1,5 +1,5 @@
 import {Ring} from './fx.jsx'
-import Bolt3D from './Bolt3d.jsx'
+import Bolt3D from './Bolt3D.jsx'
 import {useState,useEffect,useRef} from 'react'
 import {Link,useParams,useNavigate} from 'react-router-dom'
 import {BarChart,Bar,XAxis,YAxis,Tooltip,ResponsiveContainer} from 'recharts'
